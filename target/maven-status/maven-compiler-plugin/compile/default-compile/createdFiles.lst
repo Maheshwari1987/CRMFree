@@ -1,0 +1,9 @@
+com\crm\qa\ExtentReportListener\ExtentReportListener.class
+com\crm\qa\base\TestBase.class
+com\crm\qa\pages\ContactAddPage.class
+com\crm\qa\pages\HomePage.class
+com\crm\qa\util\TestUtil.class
+com\crm\qa\pages\LoginPage.class
+com\crm\qa\pages\MainPage.class
+com\crm\qa\util\WebEventListener.class
+com\crm\qa\pages\ContactPage.class
